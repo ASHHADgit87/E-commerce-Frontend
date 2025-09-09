@@ -1,18 +1,28 @@
-# E-Commerce Frontend
+# 🛍️ E-Commerce Frontend
 
 A modern, responsive e-commerce frontend application built with HTML, CSS, and JavaScript.
 
-## Features
+## ✨ Features
 
-- Responsive design for desktop, tablet, and mobile
-- Product listing, product details, and shopping cart pages
-- Blog, About, and Contact pages
-- Interactive navbar with mobile toggle
-- Embedded Google Maps for location (NED University, Karachi)
-- Newsletter signup and professional footer
-- Clean UI and easy customization
+- 💻 **Responsive Design:** Works seamlessly on desktop, tablet, and mobile.  
+- 🛒 **Product Pages:** Product listing, product details, and shopping cart pages.  
+- 📰 **Extra Pages:** Blog, About, and Contact pages.  
+- 📌 **Interactive Navbar:** Mobile-friendly toggle navigation.  
+- 📍 **Google Maps Integration:** Embedded map for NED University, Karachi.  
+- 📧 **Newsletter Signup:** Stay updated with a simple subscription form.  
+- 🎨 **Modern UI:** Clean, professional, and easy to customize.  
 
-## Getting Started
+## 🛠️ Tech Stack
+
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+## 🚀 Getting Started
 
 https://ashhad-e-commerce.netlify.app/
 
+## 👨‍💻 Author
+
+- **Muhammad Ashhadullah Zaheer**  
+- 🔗 LinkedIn: [Muhammad Ashhadullah Zaheer](https://www.linkedin.com/in/muhammad-ashhadullah-zaheer-41194a340/)  
